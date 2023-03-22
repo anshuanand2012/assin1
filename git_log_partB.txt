@@ -1,0 +1,110 @@
+commit 30694e976338944792cee5a49713f8eba1b2501c
+Author: anshu <anshuanand@gmail.com>
+Date:   Wed Mar 22 11:44:05 2023 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..0d6dc9c
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025  Google
+\ No newline at end of file
+
+commit e3eaa19cfc77d0fb23172b2953a523e1b9ce48e5
+Author: anshu <anshuanand@gmail.com>
+Date:   Wed Mar 22 11:34:31 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index f518988..3a5c02c 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,4 +1,5 @@
+ anshu 
+ computer science and engineering
+ cuury house 
+-KGF
+\ No newline at end of file
++KGF
++white
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 0d6dc9c..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025  Google
+\ No newline at end of file
+
+commit cc5f7763df44c151d3259551d7a0688d9ad79146
+Author: anshu <anshuanand@gmail.com>
+Date:   Wed Mar 22 11:28:22 2023 +0530
+
+    Commiting a new gile with graduation year
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..0d6dc9c
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025  Google
+\ No newline at end of file
+
+commit 2a1a9e5ae6139a7aed06506b96864a93f257440a
+Author: anshu <anshuanand@gmail.com>
+Date:   Wed Mar 22 11:08:10 2023 +0530
+
+    Added favorite resturent and movie
+
+diff --git a/file1.txt b/file1.txt
+index f9d94e7..f518988 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,4 @@
+ anshu 
+-computer science and engineering
+\ No newline at end of file
++computer science and engineering
++cuury house 
++KGF
+\ No newline at end of file
+
+commit 3bc2fce705ac2c627d91333ada063f727e01989d
+Author: anshu <anshuanand@gmail.com>
+Date:   Wed Mar 22 11:02:54 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index b6d698b..f9d94e7 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,2 @@
+-anshu
+-BT21CSE080
+\ No newline at end of file
++anshu 
++computer science and engineering
+\ No newline at end of file
+
+commit 1598e2b6f9bb1652519f26ef86990936ef840cba
+Author: anshu <anshuanand@gmail.com>
+Date:   Wed Mar 22 10:52:37 2023 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..b6d698b
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1,2 @@
++anshu
++BT21CSE080
+\ No newline at end of file
